@@ -3,7 +3,6 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 
 ## 08.01.2019 Narzędzia programisty (linux, git, vim)
 
-
 ### Pre-work
 - [X] Linux installation on own laptop
 - [X] Software installation
@@ -31,7 +30,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 
 ### Post-work
 - [X] Zrób Fork tego repozytorium i oznaczaj w nim ukończone rzeczy
-- [X] Prześlij na Discordzie na kanale #narzedzia-programisty adres do swojego konta na GitHubie, tak aby wszyscy mogli Cię znaleźć i obserwować, czy robisz prace domowe ;D
+- [ ] Prześlij na Discordzie na kanale #narzedzia-programisty adres do swojego konta na GitHubie, tak aby wszyscy mogli Cię znaleźć i obserwować, czy robisz prace domowe ;D
 - [ ] Obczaj jak działa git revert i cofnij już skomitowane zmiany
 - [ ] Przejdź samouczek vimtutor (obowiązkowo przynajmniej pierwsze 3 rozdziały)
 - [ ] Czasem na GitHubie natkniesz się na projekty ze znaczkiem Build Passing. Poczytaj czym jest CI (Continuous Integration) i jak jest ono oferowane na GitHubie (np. Travis CI, Circle CI). Przydatne linki: [GitHub Continuous Integration](https://github.com/marketplace/category/continuous-integration) [Continuous Delivery 101 (Part 1)](https://www.youtube.com/watch?v=HnWuIjUw_Q8)
