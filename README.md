@@ -36,12 +36,12 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 ## 15.01.2019 Podstawy C++
 
 ### Pre-work 
-- [ ] Obejrzyj [wideo jak działa alokacja pamięci](https://www.youtube.com/watch?v=CSVRA4_xOkw)
-- [ ] Obejrzyj [wideo o tym, jak działają wskaźniki](https://www.youtube.com/watch?v=W0aE-w61Cb8)
-- [ ] Wpisz poniżej 3 rzeczy, które wg siebie najmniej rozumiesz w C++ i zrób Pull Request :)
-  - __________
-  - __________
-  - __________
+- [X] Obejrzyj [wideo jak działa alokacja pamięci](https://www.youtube.com/watch?v=CSVRA4_xOkw)
+- [X] Obejrzyj [wideo o tym, jak działają wskaźniki](https://www.youtube.com/watch?v=W0aE-w61Cb8)
+- [X] Wpisz poniżej 3 rzeczy, które wg siebie najmniej rozumiesz w C++ i zrób Pull Request :)
+  - szablony
+  - funkcje wirtualne(cos tam wiem ale nigdy nie uzylem w kodzie)
+  - konwersje
 
 
 ### Materials
