@@ -15,7 +15,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [Scrum Framework](ScrumFramework.pdf)
 - [Cmake documentation](https://cmake.org/cmake/help/v3.13/manual/cmake-commands.7.html)
 - Foto z zajęć:
-  <img src="kompilacja.jpg" width="250px"> <img src="zasady_kodowania.jpg" width="250px">
+- <img src="kompilacja.jpg" width="250px"> <img src="zasady_kodowania.jpg" width="250px">
   <img src="tablica0.jpg" width="250px"> <img src="tablica1.jpg" width="250px">
 - [Nagranie z zajęć](https://www.youtube.com/watch?v=sb5o5lmN-O0&feature=youtu.be)
 
@@ -51,7 +51,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [C++ operators on cppreference.com](https://en.cppreference.com/w/cpp/language/expressions#Operators)
 - [Implicit conversions on cppreference.com](https://en.cppreference.com/w/cpp/language/implicit_conversion)
 - [Repozytorium memory_management](https://github.com/LordLukin/memory_management)
-- [Prezentacja z wyjątków](exceptions.pdf)
+- [Prezentacja z wyjątków](exception.pdf)
 - [Przekazywanie parametrów - ściągawka](Metody_przekazywania_parametrow_i_wskazniki.pdf)
 - Foto z zajęć:
 - <img src="remote_repo.jpg" width="250px"> <img src="pointers.jpg" width="250px">
