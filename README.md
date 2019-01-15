@@ -14,8 +14,10 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [Ściągawka - Scrum](sciaga_scrum.pdf)
 - [Scrum Framework](ScrumFramework.pdf)
 - [Cmake documentation](https://cmake.org/cmake/help/v3.13/manual/cmake-commands.7.html)
-- Foto z zajęć: <img src="kompilacja.jpg" width="250px"> <img src="zasady_kodowania.jpg" width="250px">
+- Foto z zajęć:
+  <img src="kompilacja.jpg" width="250px"> <img src="zasady_kodowania.jpg" width="250px">
   <img src="tablica0.jpg" width="250px"> <img src="tablica1.jpg" width="250px">
+- [Nagranie z zajęć](https://www.youtube.com/watch?v=sb5o5lmN-O0&feature=youtu.be)
 
 ### Post-work (deadline: 20.01.2019)
 - [ ] Sforkuj [repozytorium modern_cpp](https://github.com/LordLukin/modern_cpp) (przycisk Fork na GitHub). Spowoduje to skopiowanie projektu na twoje konto GitHuba. Napisz poprawny Makefile do tego projektu, który wykorzystuje zmienne. Wkomituj go i udostępnij na GitHubie, zrób Pull Requesta. [Przydatny link](http://mrbook.org/blog/tutorials/make/)
@@ -44,8 +46,17 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 
 
 ### Materials
+- [Dokumentacja C++ (cppreference.com)](https://en.cppreference.com/)
 - [C++ keywords on cppreference.com](https://en.cppreference.com/w/cpp/keyword)
 - [C++ operators on cppreference.com](https://en.cppreference.com/w/cpp/language/expressions#Operators)
+- [Implicit conversions on cppreference.com](https://en.cppreference.com/w/cpp/language/implicit_conversion)
+- [Repozytorium memory_management](https://github.com/LordLukin/memory_management)
+- [Prezentacja z wyjątków](exceptions.pdf)
+- [Przekazywanie parametrów - ściągawka](Metody_przekazywania_parametrow_i_wskazniki.pdf)
+- Foto z zajęć:
+- <img src="remote_repo.jpg" width="250px"> <img src="pointers.jpg" width="250px">
+  <img src="stack_heap.jpg" width="250px"> <img src="param_passing.jpg" width="250px">
+  <img src="conversions.jpg" width="250px"> <img src="exceptions.jpg" width="250px">
 
 ### Post-work (deadline: 20.01.2019)
 - [ ] Zrób [test Podstawy C++](https://goo.gl/forms/SkTtLHKSW6mWHYE13)
