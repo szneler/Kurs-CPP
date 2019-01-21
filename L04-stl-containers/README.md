@@ -14,8 +14,9 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [Ściągawka ze złożoności obliczeniowej](zlozonosc_obliczeniowa.pdf)
 - [Prezentacja z zajęć o STL](STL_full.pdf)
 - [Zadania z STLa](zadania_STL.pdf)
--  Foto z zajęć:
-- 
+
+### Nagranie i foto
+
 
 ### Post-work
 - [ ] Obejrzyj 2 filmy o złożoności obliczeniowej: https://www.youtube.com/watch?v=v4cd1O4zkGw, https://www.youtube.com/watch?v=MyeV2_tGqvw

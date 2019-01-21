@@ -14,10 +14,11 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [Ściągawka - Scrum](sciaga_scrum.pdf)
 - [Scrum Framework](ScrumFramework.pdf)
 - [Cmake documentation](https://cmake.org/cmake/help/v3.13/manual/cmake-commands.7.html)
-- Foto z zajęć:
+
+### Nagranie i foto
+- [Nagranie z zajęć](https://www.youtube.com/watch?v=sb5o5lmN-O0&feature=youtu.be)
 - <img src="kompilacja.jpg" width="250px"> <img src="zasady_kodowania.jpg" width="250px">
   <img src="tablica0.jpg" width="250px"> <img src="tablica1.jpg" width="250px">
-- [Nagranie z zajęć](https://www.youtube.com/watch?v=sb5o5lmN-O0&feature=youtu.be)
 
 ### Post-work (deadline: 20.01.2019)
 - [ ] Sforkuj [repozytorium modern_cpp](https://github.com/LordLukin/modern_cpp) (przycisk Fork na GitHub). Spowoduje to skopiowanie projektu na twoje konto GitHuba. Napisz poprawny Makefile do tego projektu, który wykorzystuje zmienne. Wkomituj go i udostępnij na GitHubie, zrób Pull Requesta. [Przydatny link](http://mrbook.org/blog/tutorials/make/). **[Poprawny Makefile](Makefile)**

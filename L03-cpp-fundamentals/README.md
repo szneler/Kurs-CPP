@@ -20,7 +20,9 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [Repozytorium memory_management](https://github.com/LordLukin/memory_management)
 - [Prezentacja z wyjątków](exception.pdf)
 - [Przekazywanie parametrów - ściągawka](Metody_przekazywania_parametrow_i_wskazniki.pdf)
-- Foto z zajęć:
+
+### Nagranie i foto
+- [Nagranie z zajęć](https://www.youtube.com/watch?v=C1-UO7g-GvE&feature=youtu.be)
 - <img src="remote_repo.jpg" width="250px"> <img src="pointers.jpg" width="250px">
   <img src="stack_heap.jpg" width="250px"> <img src="param_passing.jpg" width="250px">
   <img src="conversions.jpg" width="250px"> <img src="exceptions.jpg" width="250px">
