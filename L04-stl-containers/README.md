@@ -14,9 +14,12 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [Ściągawka ze złożoności obliczeniowej](zlozonosc_obliczeniowa.pdf)
 - [Prezentacja z zajęć o STL](STL_full.pdf)
 - [Zadania z STLa](zadania_STL.pdf)
+- [C++ Data Structures and Algorithms Cheat Sheet](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md)
 
 ### Nagranie i foto
-
+- [Nagranie z zajęć](https://www.youtube.com/watch?v=6lVqYkwOqKY&feature=youtu.be)
+- <img src="retro.jpg" width="250px"> <img src="complexity.jpg" width="250px">
+  <img src="cache.jpg" width="250px"> <img src="vector.jpg" width="250px">
 
 ### Post-work
 - [ ] Obejrzyj 2 filmy o złożoności obliczeniowej: https://www.youtube.com/watch?v=v4cd1O4zkGw, https://www.youtube.com/watch?v=MyeV2_tGqvw
