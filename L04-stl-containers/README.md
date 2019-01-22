@@ -42,6 +42,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
   - Walidacja czy numer PESEL jest poprawny [Wiki - poprawnosc PESEL](https://pl.wikipedia.org/wiki/PESEL#Cyfra_kontrolna_i_sprawdzanie_poprawno%C5%9Bci_numeru)
 
   UWAGA: Zwracajcie uwagę na formatowanie kodu. Powinno być jednolite. W szczególności nie komitujcie tabów zamiast spacji, bo to od razu widać na GitHubie.
+  Jeśli utkniecie albo chcecie sprawdzić zgodność z wymaganiami zajrzyjcie do [Checklisty](checklist.md)
 
 - [ ] Sprawdzenie projektów grupowych innym grupom - obowiązkowo informacja zwrotna (wystawione Issues na GitHubie lub komentarze do kodu na Discordzie lub krótkie OK, gdy wszystko w porządku) - termin na **piątek 01.02** do końca dnia, aby zasugerowane poprawki można jeszcze było nanieść
 
