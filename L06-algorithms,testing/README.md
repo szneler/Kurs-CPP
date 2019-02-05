@@ -13,6 +13,9 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 
 
 ### Nagranie i foto
+- [Nagranie z zajęć](https://www.youtube.com/watch?v=CxJdYkyjXy0&feature=youtu.be)
+- <img src="algorytmy.jpg" width="250px"> <img src="testowanie.jpg" width="250px">
+  <img src="zadania12.jpg" width="250px">
 
 ### Post-work
 - [ ] Zrób test z STLa (w formie papierowej)
