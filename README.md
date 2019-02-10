@@ -8,4 +8,6 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 ## 22.01.2019 [L05 - STL iterators, functor, lambdas, algorithms](L05-stl-itertors,functors,lambdas,algorithms)
 ## 04.02.2019 [L06 - STL algorithms, intro to testing](L06-algorithms,testing)
 ## 05.02.2019 [L07 - Objective C++](L07-objective-cpp)
+## 11.02.2019 [L08 - Testing](L08-testing)
+## 12.02.2019 [L09 - Memory Management](L09-memory-management)
 
