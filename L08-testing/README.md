@@ -17,7 +17,8 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [ ] [Combined Number repo](https://github.com/LordLukin/CombinedNumber)
 
 ### Nagranie i foto
-
+- [Nagranie z zajęć](https://www.youtube.com/watch?v=i1S9VgMcyfA&feature=youtu.be)
+- <img src="tdd.jpg" width="250px"> <img src="gdb.jpg" width="250px">
 
 ### Post-work
 - [ ] Napisz scenariusze testowe (testcase), którymi przetestujesz program [Bowling](bowling.txt). Scenariusze mają być dokumentem tekstowym (nie kodem) w formacie Given-When-Then

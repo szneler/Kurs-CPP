@@ -8,10 +8,13 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 ### Materials
 - [ ] Repo [memory management](https://github.com/LordLukin/memory_management)
 - [ ] Framework [GTest](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
-- [ ] [Combined Number repo](https://github.com/LordLukin/CombinedNumber)
+- [ ] [memory_management repo](https://github.com/LordLukin/memory_management)
+- [ ] [prezentacja z zajęć](memory_management.pdf)
 
 
 ### Nagranie i foto
+- [Nagranie z zajęć](https://www.youtube.com/watch?v=OJCKdOFSRm0&feature=youtu.be)
+- <img src="argv.jpg" width="250px"> <img src="dependency_injection.jpg" width="250px">
 
 
 ### Post-work
