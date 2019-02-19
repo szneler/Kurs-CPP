@@ -1,15 +1,14 @@
 # Kurs-CPP
 Materials from C++ Course at Coders School (January 2019 - March 2019)
 
-## 11.02.2019 Testowanie oprogramowania
+## 12.02.2019 Zarządzanie pamięcią
 
 ### Pre-work 
 
 ### Materials
 - [ ] Repo [memory management](https://github.com/LordLukin/memory_management)
 - [ ] Framework [GTest](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
-- [ ] [memory_management repo](https://github.com/LordLukin/memory_management)
-- [ ] [prezentacja z zajęć](memory_management.pdf)
+- [ ] [prezentacja Memory Management](memory_management.pdf)
 
 
 ### Nagranie i foto
