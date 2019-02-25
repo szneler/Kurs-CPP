@@ -11,4 +11,5 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 ## 11.02.2019 [L08 - Testing](L08-testing)
 ## 12.02.2019 [L09 - Memory Management](L09-memory-management)
 ## 19.02.2019 [L10 - Memory Management and Modern C++](L10-memory,modern-cpp)
+## 26.02.2019 [L11 - Modern C++](L11-modern-cpp)
 
