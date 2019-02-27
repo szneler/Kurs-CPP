@@ -11,7 +11,8 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [ ] [prezentacja Modern C++ (pełna wersja)](modern_cpp_full.pdf)
 
 ### Nagranie i foto
-
+- [Nagranie z zajęć](https://youtu.be/cl9qUZ1JyPM)
+- <img src="private_testing.jpg" width="250px">
 
 ### Post-work
 - [ ] Projekt grupowy [Logical Images](https://github.com/LordLukin/LogicalImages) lub [Bowling](https://github.com/LordLukin/Bowling)
