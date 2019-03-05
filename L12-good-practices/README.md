@@ -42,32 +42,32 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 
 ### Pre-work for the next classes
 - [ ] Przygotuj krótkie wystąpienie (max 10 minut) o wybranym wzorcu projektowym. Forma dowolna (PowerPoint, tablica, wydruki, film? :D). Musi być przykład kodu w C++. Materiałami musisz podzielić się jakoś z innymi, aby mogli się oni nauczyć tego wzorca. Najlepiej gdy wrzucisz je jeszcze przed przyszłymi zajęciami na Discorda.
-  - Factory Method
-  - Abstract Factory
-  - Builder
-  - Singleton
+  - Factory Method (Przemek)
+  - Abstract Factory (Michał)
+  - Builder (Maja)
+  - Singleton (Kasia)
   - Adapter
-  - Composite
-  - Decorator
+  - Composite (Marcin)
+  - Decorator (Martyna)
   - Facade
   - Observer
   - State
-  - Strategy
+  - Strategy (Jakub)
   - Template Method
   - Visitor
 - [ ] Przygotuj krótkie wystąpienie (max 10 minut) na wybrany temat. Również dowolna forma. Podziel się materiałami. Obowiązkowo przykłady kodu/komendy/fragmenty plików.
-  - git
+  - git (Kasia)
   - systemy budowania
-  - zarządzanie pamięcią (smart pointery, wycieki pamięci)
+  - zarządzanie pamięcią (smart pointery, wycieki pamięci) (Tomek)
   - obiektowość w C++ (abstrakcja, enkapsulacja, dziedziczenie, polimorfizm, problem diamentowy)
-  - testowanie kodu
-  - wyjątki
-  - lambdy, funktory, funkcje
+  - testowanie kodu (Martyna)
+  - wyjątki (Jakub)
+  - lambdy, funktory, funkcje (Michał)
   - nowoczesny C++
-  - kontenery STL
+  - kontenery STL (Maja)
   - algorytmy numeryczne
-  - przekazywanie parametrów (kopia, wskaźnik, referencja)
-  - kilka słów kluczowych C++ (wszystkich nie zdążymy ;))
+  - przekazywanie parametrów (kopia, wskaźnik, referencja) (Przemek)
+  - kilka słów kluczowych C++ (wszystkich nie zdążymy ;)) (Marcin)
   - zasady SOLID
 
 
