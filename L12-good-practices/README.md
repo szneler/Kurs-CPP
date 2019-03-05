@@ -28,7 +28,8 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [ ] [prezentacja From STUPID to SOLID code](From_STUPID_to_SOLID_code.pdf)
 
 ### Nagranie i foto
-
+- [Nagranie z zajęć](https://www.youtube.com/watch?v=YhnUQreKy1A)
+- <img src="solid.jpg" width="250px">
 
 ### Post-work
 - [ ] Projekt grupowy [Logical Images](https://github.com/LordLukin/LogicalImages) lub [Bowling](https://github.com/LordLukin/Bowling)
