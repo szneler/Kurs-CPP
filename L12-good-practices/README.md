@@ -51,7 +51,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
   - Decorator (Martyna)
   - Facade
   - Observer
-  - State
+  - State (Tomek)
   - Strategy (Jakub)
   - Template Method
   - Visitor
