@@ -35,8 +35,9 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 
 
 ### Materials
-- [ ] Repo [Templates](https://github.com/LordLukin/templates)
-- [ ] Przeróżne materiały zrobione przez kursantów z wcześniejszych moich kursów są widoczne powyżej
+- [ ] [Repo Templates](https://github.com/LordLukin/templates)
+- [ ] [Prezentacja Variadic Templates](variadic_templates.pdf)
+- [ ] [Przeróżne materiały zrobione przez kursantów z wcześniejszych moich kursów](materialy_poprzednich_grup)
 
 ### Nagranie i foto
 
