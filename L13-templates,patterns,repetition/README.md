@@ -40,7 +40,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [ ] [Przeróżne materiały zrobione przez kursantów z wcześniejszych moich kursów](materialy_poprzednich_grup)
 
 ### Nagranie i foto
-
+- [Nagranie](https://www.youtube.com/watch?v=FAJEcxGLkYY)
 
 ### Post-work
 - [ ] Projekt grupowy [Logical Images](https://github.com/LordLukin/LogicalImages) lub [Bowling](https://github.com/LordLukin/Bowling)
