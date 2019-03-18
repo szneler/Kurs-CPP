@@ -14,3 +14,10 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 ## 26.02.2019 [L11 - Modern C++](L11-modern-cpp)
 ## 05.03.2019 [L12 - Good Programming Practices](L12-good-practices)
 ## 12.03.2019 [L13 - Templates, Design Patterns, Repetition](L13-templates,patterns,repetition)
+## 18.03.2019 [L14 - Design Patterns, Repetition, Recruitment](L14-patterns,repetition,recruitment)
+
+## [Test końcowy](https://goo.gl/forms/kL6KUj7u55UbCX4x2)
+Do zrobienia do niedzieli 24.03.2019 do 23:59 - obowiązkowo dla wszystkich. Jest to warunek uzyskania certyfikatu.
+## Projekt grupowy [Logical Images](https://github.com/LordLukin/LogicalImages) lub [Bowling](https://github.com/LordLukin/Bowling)
+Musisz mieć przynajmniej 1 dostarczone zadanie. Jest to warunek uzyskania certyfikatu.
+
