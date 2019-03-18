@@ -39,7 +39,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [ ] [Przykładowe pytania do pracodawców](Candidate_questions.pdf)
 
 ### Nagranie i foto
-
+- [Nagranie - Rekrutacja](https://www.youtube.com/watch?v=HxaIwcSU0Zg)
 
 ### Post-work
 - [ ] [Test końcowy](https://goo.gl/forms/kL6KUj7u55UbCX4x2) - do zrobienia do niedzieli 24.03.2019 do 23:59 - obowiązkowo dla wszystkich. Jest to warunek uzyskania certyfikatu.
