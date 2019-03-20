@@ -39,6 +39,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [ ] [Przykładowe pytania do pracodawców](Candidate_questions.pdf)
 
 ### Nagranie i foto
+- [Nagranie - Dekorator, wyjątki, Kompozyt](https://www.youtube.com/watch?v=yjuT_U6aPSo) - samo audio :( na przyszłość: nie zmieniać ustawień obrazu podczas nagrywania ;/
 - [Nagranie - Rekrutacja](https://www.youtube.com/watch?v=HxaIwcSU0Zg)
 
 ### Post-work
