@@ -8,11 +8,11 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [ ] [Przykładowe pytania do pracodawców](Candidate_questions.pdf)
 
 ### Nagranie i foto
-
+- [Nagranie - Factory Method](https://www.youtube.com/watch?v=M3PB5ivURC4)
+- [Nagranie - State, zarządzanie pamięcią, rekrutacja](https://www.youtube.com/watch?v=VWfkUidWhK8)
 
 ### Post-work
 - [ ] Dalej możesz kontynuować pracę nad projektami [Logical Images](https://github.com/LordLukin/LogicalImages) lub [Bowling](https://github.com/LordLukin/Bowling). Oferuję się, że będę robił Code Review, jeśli mnie o to poprosicie :)
-
 
 ### Pre-work ku lepszej przyszłości :)
 - [ ] Przygotuj sobie komentarze odnośnie naszego kursu. Co się podobało, a co moglibyśmy ulepszyć.
